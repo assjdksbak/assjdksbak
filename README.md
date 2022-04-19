@@ -1,6 +1,6 @@
 
-- I’m interested in helping and translating any open source project that promotes privacy whenever i can and have the time
-- How to reach me: later...
+- I’m interested in helping and translating any open source project whenever i can and have the time
+- How to reach me: i use matrix, session, briar and telegram, in order of preference
 
 <!---
 assjdksbak/assjdksbak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
